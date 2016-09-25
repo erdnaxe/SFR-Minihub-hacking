@@ -1,7 +1,7 @@
 # SFR Minihub hacking
 All the files required to hack the SFR Minihub.
 
-The step-by-step guide is on my blog.
+The step-by-step guide is on [my blog](https://erdnaxe.github.io/2016/openwrt-for-sfr-minihub/).
 
 You will find on this repository :
 
